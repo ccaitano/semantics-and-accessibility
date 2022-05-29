@@ -28,7 +28,7 @@ Main landing page for Horiseon, a search engine optimization, online reputation 
 
 ### Setup 
 
-1. Go to <a href="https://github.com/ccaitano/semantics-and-accessibility" alt="Horiseon Website">Horiseon Website</a> in your browser
+1. Go to <a href="https://ccaitano.github.io/semantics-and-accessibility" alt="Horiseon Website">Horiseon Website</a> in your browser
 
 Copyright (c) May 2022
 
