@@ -1,22 +1,34 @@
 # semantics-and-accessibility
 
+#### By Cheryl Caitano
+
 ## Module 1 Challenge - Refactoring, Semantics, and Accessibility
 
 Modifying a marketing agency website so that it adheres to accessibility standards and optimized for search engines.
 
-## Table of Contents
+### Table of Contents
 
 1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [FAQs](#faqs)
+2. [Technologies Used](#technologies-used)
+3. [Setup](#setup)
 
-## General Info
+### General Info
 
-Main landing page for Horiseon, a search engine optimization, online reputation management, and social media marketing company. Includes links and images that are web accessible and utilizes HTML semantics.
-### Screenshot
+Main landing page for Horiseon, a search engine optimization, online reputation management, and social media marketing company. Includes links and images that are web accessible and utilizes proper semantics in corresponding HTML file.
+
+#### Screenshot
 
 <img src="./assets/images/horiseon-main-page.jpg" alt="Horiseon Main Page Screenshot"/>
-<!-- <a href="#horiseon-main-page" alt="Horiseon Main Page">Horiseon Main Page</a> -->
 
-##
+
+### Technologies Used
+
+* HTML
+* CSS
+
+### Setup 
+
+1. Go to <a href="https://github.com/ccaitano/semantics-and-accessibility" alt="Horiseon Website">Horiseon Website</a> in your browser
+
+Copyright (c) May 2022
 
