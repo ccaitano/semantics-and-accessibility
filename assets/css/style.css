@@ -1,3 +1,4 @@
+/* Universal style for the page */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -19,7 +20,7 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Changes seo text color in header */
 header h1 .seo {
     color: #d9dcd6;
 }
@@ -55,6 +56,7 @@ p {
     background-position: center;
 }
 
+/* Styling parameters to place images on the page */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -65,21 +67,11 @@ p {
     margin-left: 25px;
 }
 
+/* Styling for the main content of the page */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
-
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
 }
 
 .content article {
@@ -100,6 +92,19 @@ p {
     font-size: 36px;
 }
 
+/* Styling for the benefits side bar */
+
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
 .benefits article {
     margin-bottom: 32px;
     color: #ffffff;
@@ -116,6 +121,7 @@ p {
     max-width: 150px;
 }
 
+/* Styling for the footer of the page */
 footer {
     padding: 30px;
     clear: both;
